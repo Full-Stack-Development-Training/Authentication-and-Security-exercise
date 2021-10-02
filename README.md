@@ -1,5 +1,6 @@
 # Mongoose-Encryption-exercise
 
 - Explore authentication and security
-- Data encryption with Mongoose-encryption
-- Hash passwords with MD5
+1. Data encryption with Mongoose-encryption (main)
+2. Hash passwords with MD5 (hashing)
+3. Salt and hash passwords with Bcrypt (bcrypt-salting-and-hashing)
