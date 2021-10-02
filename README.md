@@ -1,4 +1,4 @@
-# Authentication-and-Security-exercise
+# Authentication and Security exercises
 
 - Explore authentication and security
 1. Data encryption with Mongoose-encryption (main)
