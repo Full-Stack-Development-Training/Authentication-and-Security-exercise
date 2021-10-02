@@ -8,6 +8,6 @@
 5. Implement sign in with Google using Oauth2.0 (@signing-in-with-google-using-oauth2.0)
 6. Add submit secret functionality
 
-# Next steps
+## Next steps
 - Implement Sign-in with Facebook functionality
 - Allow the user to store multiple secrets in the database
